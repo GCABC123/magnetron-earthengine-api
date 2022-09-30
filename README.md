@@ -1,3 +1,10 @@
+
+Google Earth Engine is a cloud-based geospatial analysis platform that enables users to visualize and analyze satellite images of our planet. Scientists and non-profits use Earth Engine for remote sensing research, predicting disease outbreaks, natural resource management, and more.
+Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities. Scientists, researchers, and developers use Earth Engine to detect changes, map trends, and quantify differences on the Earth's surface.
+
+It features Ready-To-Use Datasets:
+The public data archive includes more than thirty years of historical imagery and scientific datasets, updated and expanded daily. It contains over forty petabytes of geospatial data instantly available for analysis.
+
 Google Earth Engine API
 =======================
 
